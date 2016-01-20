@@ -5,6 +5,12 @@ JCalendarWidget is a highly customizable, multi lingual Calendar component for g
 
 ###Screenshots:
 
+![JCalendarWidget](https://raw.github.com/akuhtz/jcalendarwidget/master/wiki/images/_2011-04-04_00-12-29.png)
+![JCalendarWidget](https://raw.github.com/akuhtz/jcalendarwidget/master/wiki/images/_2011-04-04_00-30-07.png)
+![JCalendarWidget](https://raw.github.com/akuhtz/jcalendarwidget/master/wiki/images/_2011-04-02_01-46-42.png)
+![JCalendarWidget](https://raw.github.com/akuhtz/jcalendarwidget/master/wiki/images/_2011-04-02_01-45-58.png)
+![JCalendarWidget](https://raw.github.com/akuhtz/jcalendarwidget/master/wiki/images/datepicker.png)
+
 ###Usage:
 Add the bean to your pallete and drag the bean onto your form and customize it.
 If not using a GUI builder(but why? try NetBeans)
